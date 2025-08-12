@@ -1,0 +1,8 @@
+instance.cfg
+/minecraft/*.json
+/minecraft/options.txt
+/minecraft/logs/*
+/minecraft/saves/*
+/minecraft/screenshots/
+/minecraft/crash-reports/*
+/minecraft/journeymap/journeymap.log

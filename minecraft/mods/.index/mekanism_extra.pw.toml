@@ -1,0 +1,16 @@
+filename = 'mekanism_extras-1.20.1-1.4.4.jar'
+name = 'Mekanism Extra'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '042f0bba3f3b4d7a2448dcad4be590d53a563347e16db2583b1e44146913a7cee9dea4d8c41adc600605b754e5cea514a08c682bdb354db9d83bf2b0e210ad24'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HUZkxNTQ/versions/vuA8HkCe/mekanism_extras-1.20.1-1.4.4.jar'
+
+[update.modrinth]
+mod-id = 'HUZkxNTQ'
+version = 'vuA8HkCe'

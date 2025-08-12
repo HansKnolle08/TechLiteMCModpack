@@ -1,0 +1,7 @@
+#B76D44 create:cogwheel
+#73CA69 create:creative_motor
+#80497A minecraft:dirt
+#4FA7D0 minecraft:dirt_path
+#3F84B7 minecraft:grass_block
+#FB37C1 create:mechanical_crafter
+#EFF72C sophisticatedbackpacks:netherite_backpack
