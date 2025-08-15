@@ -1,7 +1,1 @@
-Instance/minecraft/*.json
-Instance/minecraft/options.txt
-Instance/minecraft/logs/*
-Instance/minecraft/saves/*
-Instance/minecraft/screenshots/
-Instance/minecraft/crash-reports/*
-Instance/minecraft/journeymap/journeymap.log
+Instance/*
